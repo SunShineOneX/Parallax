@@ -1,6 +1,9 @@
 body {
     background-color:#40bad5;
 }
+.container-fluid {
+    padding: 3% 15%;
+}
 
 .navbar {
     padding: 0 0 4.5rem 0;
@@ -41,8 +44,8 @@ h1 {
         color: #f3c623;
       }
 
-a {
-    color: 
+p {
+    text-align: center;
 }
 
 .para {
